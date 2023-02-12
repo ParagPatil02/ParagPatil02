@@ -3,7 +3,7 @@
 <h3 align="left">Computer Engineering Undergrad</h3>
 
 
-- 🔭 I’m currently working on **Python, ML, Tablaue,** 
+- 🔭 I’m currently working on **Python, ML, Tablaue, PowerBI** 
       <br> **NodeJs, React etc.**
 
 - 🌱 I’m currently learning about **Full Stack**
