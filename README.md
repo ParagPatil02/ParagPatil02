@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Python, ML, Tablaue, PowerBI** 
       <br> **NodeJs, React etc, MS Excel, Cloud Computing (AWS, GCP, Salesforce).**
 
-- 🌱 I’m currently learning about **Full Stack**
+- 🌱 I’m currently learning about **Data Analyst**
 
 - 📫 How to reach me **paragpatil.rcpit@gmail.com**
 
@@ -21,8 +21,7 @@
 <a href="https://www.codechef.com/users/sesrc2_250" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="parag"  width="32px" height="27px" /></a>
 <a href="https://www.hackerrank.com/parag777686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="parag"  width="32px" height="27px" /></a>
 <a href="https://leetcode.com/Parag_Patil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parag"  width="32px" height="27px" /></a>
- <a href="https://trailblazer.me/id?lang=en_US" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="parag"  width="32px" height="27px" /></a>
-<a href="https://www.cloudskillsboost.google/profile/badges" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="parag"  width="32px" height="27px" /></a>
+
 
 </div>
 
