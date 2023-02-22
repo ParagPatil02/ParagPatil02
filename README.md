@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on **Python, ML, Tablaue, PowerBI** 
-      <br> **NodeJs, React etc.**
+      <br> **NodeJs, React etc, MS Excel, Cloud Computing (AWS, GCP, Salesforce).**
 
 - 🌱 I’m currently learning about **Full Stack**
 
