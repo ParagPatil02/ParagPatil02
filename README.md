@@ -1,5 +1,7 @@
+![logo](https://github.com/ParagPatil02/ParagPatil02/blob/main/banner.jpg)
+
 <h1 align="left">Hey 👋, I'm Parag Patil</h1>
-<img align="right" alt="GIF" width="200x"height="220px" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" />
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 <h3 align="left">Computer Engineering Undergrad</h3>
 
 
