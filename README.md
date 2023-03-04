@@ -37,10 +37,10 @@
 
  <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=parag&&show_icons=true&theme=tokyonight&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=paragpatil02&&show_icons=true&theme=tokyonight&locale=en" />
     </a>
     <a href="">
-      <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parag0601&theme=tokyonight&hide=glsl,python"/>
+      <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parag&theme=tokyonight&hide=glsl,python"/>
     </a>
 </div
 
