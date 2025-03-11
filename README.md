@@ -1,4 +1,4 @@
-![logo][(https://github.com/ParagPatil02/ParagPatil02/blob/main/Brown%20and%20White%20Modern%20Designer%20LinkedIn%20Article%20Cover%20Image.png?raw=true)]
+![logo](https://github.com/ParagPatil02/ParagPatil02/blob/main/Brown%20and%20White%20Modern%20Designer%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
 
 <h1 align="left">Hey 👋, I'm Parag Patil</h1>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
