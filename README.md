@@ -1,61 +1,187 @@
-![logo]<img width="1584" height="396" alt="Copy of Gray Minimalist Motivational LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/4b8372d0-b0f9-447d-82a7-76ed94f33aed" />
-)
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/4b8372d0-b0f9-447d-82a7-76ed94f33aed" alt="Parag Patil GitHub Banner"/>
+</p>
 
 <h1 align="left">Hey 👋, I'm Parag Patil</h1>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
-<h3 align="left">Computer Engineering Undergrad</h3>
 
+<h3 align="left">
+Software Engineer | QA Automation Engineer | Career Mentor | Founder of SkillUpParag
+</h3>
 
-- 🔭 I’m currently working on **Python, ML, Tablaue, PowerBI** 
-      <br> **NodeJs, React etc, MS Excel, Cloud Computing (AWS, GCP, Salesforce).**
-
-- 🌱 I’m currently learning about **Data Analyst**
-
-- 📫 How to reach me **paragpatil.rcpit@gmail.com**
-
-- 😄 Pronouns: **He/His**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<div  align="left" style=" letter-spacing:10px; ">
-<a href="paragpatil.rcpit@gmail.com"><img align="center" alt=" Gmail"  width="32px" height="27px"  src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif"/></a>
-<a href="https://www.linkedin.com/in/parag-patil-31b872228/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="parag"  width="32px" height="27px" /></a>
-<a href="https://www.codechef.com/users/sesrc2_250" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="parag"  width="32px" height="27px" /></a>
-<a href="https://www.hackerrank.com/parag777686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="parag"  width="32px" height="27px" /></a>
-<a href="https://leetcode.com/Parag_Patil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parag"  width="32px" height="27px" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-</div>
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil0601&theme=tokyonight" alt="parag0601" /></p>
+<p align="left">
+  <a href="https://skilluparag.netlify.app/">
+    <img src="https://img.shields.io/badge/SkillUpParag-Visit%20Website-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" alt="SkillUpParag"/>
+  </a>
+  <a href="https://paragpatilportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Personal%20Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## My Github Statistics 📈
+### 👨‍💻 About Me
 
- <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=paragpatil02&&show_icons=true&theme=tokyonight&locale=en" />
-    </a>
-    <a href="">
-      <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parag&theme=tokyonight&hide=glsl,python"/>
-    </a>
-</div
+- 💼 Software Engineer with **3+ years of experience** in Software Testing and Test Automation.
+- 🔭 Currently working at **WebLedger** as a QA Engineer.
+- 🧪 Experienced in Manual Testing, Automation Testing, API Testing, UI Testing and Performance Testing.
+- ⚙️ Building automation frameworks using **Playwright, TypeScript, Python and Pytest**.
+- 🚀 Founder of **SkillUpParag**, helping students and freshers with career growth and job preparation.
+- 📊 Interested in Software Quality, Test Automation, Cloud Technologies and Data Analytics.
+- 🌱 Continuously learning new technologies and improving my engineering skills.
+- 📫 Reach me at: **paragpatil.rcpit@gmail.com**
 
-
-      
- </br>
- 
 ---
 
-<div align="right" style="color:white">
+### 🛠️ Technical Skills & Tools
 
-#### Thanks for visiting 💙
-![VisitorCount](https://profile-counter.glitch.me/ParagPatil02/count.svg)
+**Programming Languages**
 
-🧋 From [Parag Patil](https://github.com/ParagPatil02)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp" />
+</p>
 
-</div>
+**Automation & Testing**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=playwright,selenium,cypress,postman" />
+</p>
+
+- Playwright with TypeScript
+- Pytest & Behave
+- API Testing & Automation
+- Manual & Functional Testing
+- Regression, Smoke & Sanity Testing
+- Performance Testing with k6 and Locust
+- Test Case Design & Defect Tracking
+
+**Cloud, Database & Analytics**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,mongodb" />
+</p>
+
+- AWS & Google Cloud Platform
+- Microsoft Excel
+- Power BI & Tableau
+- Jupyter Notebook
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jira,wordpress,react,nodejs" />
+</p>
+
+- Jira, Zephyr & Confluence
+- Plane.so & Odoo
+- WordPress, Shopify & Framer
+
+---
+
+### 💼 Professional Experience
+
+**QA Engineer | WebLedger**
+
+*August 2024 – Present*
+
+- Managing end-to-end QA activities across web and mobile applications.
+- Developing UI automation frameworks using Playwright and TypeScript.
+- Building API automation scripts using Python and Pytest.
+- Performing Functional, Regression, Smoke, Sanity and Integration Testing.
+- Conducting API validation using Postman.
+- Performing performance testing using k6 and Locust.
+- Managing defects, test cases and QA documentation.
+
+---
+
+### 🚀 Featured Projects & Platforms
+
+<table>
+<tr>
+<td width="50%">
+<h3>💜 SkillUpParag</h3>
+<p>Career services platform offering resume creation, LinkedIn optimization, portfolio development and career guidance.</p>
+<a href="https://rad-naiad-40e8b9.netlify.app/">Visit Website ↗</a>
+</td>
+<td width="50%">
+<h3>🌐 Personal Portfolio</h3>
+<p>My professional portfolio showcasing my experience, skills, projects and achievements.</p>
+<a href="https://paragpatilportfolio.netlify.app/">Visit Portfolio ↗</a>
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 SkillUpParag – Community Impact
+
+Helping students and freshers improve their professional profiles and career opportunities.
+
+| Achievement | Impact |
+|---|---:|
+| Students Guided | 5,000+ |
+| Resumes Created | 4,000+ |
+| LinkedIn Optimizations | 1,000+ |
+| Portfolio Websites | 300+ |
+| Internship Certificates Provided | 2,000+ |
+| Course Certificates Provided | 2,000+ |
+| Paid Promotions | 50+ |
+
+**Connect with SkillUpParag:**
+
+- 🌐 Website: https://rad-naiad-40e8b9.netlify.app/
+- 📸 Instagram: https://www.instagram.com/skilluparag
+- 💼 LinkedIn: https://www.linkedin.com/in/paragpatil02/
+- 📞 WhatsApp: https://wa.me/918390458196
+- 🎯 Topmate: https://topmate.io/parag_patil02/
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="mailto:paragpatil.rcpit@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/paragpatil02/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/skilluparag">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/ParagPatil02">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://topmate.io/parag_patil02/">
+<img src="https://img.shields.io/badge/Topmate-7C3AED?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ParagPatil02&show_icons=true&theme=tokyonight&hide_border=true" alt="Parag's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParagPatil02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParagPatil02&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParagPatil02&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<h3 align="center">✨ Thanks for visiting my GitHub profile! ✨</h3>
+
+<h4 align="center">Build. Test. Learn. Grow. 🚀</h4>
+
+<p align="center">
+  <b>From Parag Patil | Software Engineer & Founder of SkillUpParag</b>
+</p>
