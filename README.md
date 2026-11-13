@@ -1,4 +1,5 @@
-![logo](https://github.com/ParagPatil02/ParagPatil02/blob/main/Brown%20and%20White%20Modern%20Designer%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
+![logo]<img width="1584" height="396" alt="Copy of Gray Minimalist Motivational LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/4b8372d0-b0f9-447d-82a7-76ed94f33aed" />
+)
 
 <h1 align="left">Hey 👋, I'm Parag Patil</h1>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
